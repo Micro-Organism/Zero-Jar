@@ -1,0 +1,3 @@
+[submodule "xjar-maven-plugin"]
+	path = xjar-maven-plugin
+	url = https://github.com/core-lib/xjar-maven-plugin.git
